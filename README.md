@@ -59,6 +59,5 @@ Shareplatform is a dynamic platform where users can effortlessly share text and 
     ```
 5. Open a pull request.
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+
